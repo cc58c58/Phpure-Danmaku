@@ -28,7 +28,8 @@ html:[http://xg.nworm.cf/my/bili-gat/video.php?sid=2586](http://xg.nworm.cf/my/b
  - https://demo.nworm.cf/danmu/v3/bilibili/?cid=100577238
  - https://demo.nworm.cf/danmu/v3/bilibili/?av=170001&p=2
  - https://demo.nworm.cf/danmu/v3/bilibili/?bv=BV17x411w7KC     (av170001)
- - https://demo.nworm.cf/danmu/v3/bilibili/?bv=BV17x411w7KC&p=3
+ - https://demo.nworm.cf/danmu/v3/bilibili/?bv=BV17x411w7KC&p=3  
+ 
  优先级 cid > bv > av
 
 
