@@ -45,9 +45,9 @@ if ($_config['数据库']['类型'] === 'sqlite'){
 
 
 function AllowOrigin($domains = []){
-    $domain = null;
     if (empty($_SERVER['HTTP_ORIGIN'])) return '*';
     if (empty($domains)) return '*';
+    $domain = $domains[0];
     
     foreach ($domains as $v) {
         if($v == $_SERVER['HTTP_ORIGIN']) {
